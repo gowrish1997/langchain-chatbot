@@ -1,0 +1,14 @@
+langchain-openai
+langchain-core
+langchain
+langchainhub
+langserve
+streamlit
+dotenv
+langchain-community
+fastapi
+uvicorn
+sse_starlette
+wikipedia
+arxiv
+faiss-cpu
